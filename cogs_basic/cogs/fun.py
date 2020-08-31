@@ -28,5 +28,7 @@ class Fun(commands.Cog):
     # and we can write infinite of
     # commands (not so much)
 
+# and we just create the def function tha add the cog to the bot
+# this fonction is always call "setup" with the bot object
 def setup(bot):
     bot.add_cog(Fun(bot))
