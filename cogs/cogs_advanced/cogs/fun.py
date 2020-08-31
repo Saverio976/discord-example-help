@@ -9,11 +9,11 @@ class Fun(commands.Cog):
         self.bot = bot
 
     @commands.command()
-    async def ping():
+    async def ping(self, ctx):
         await ctx.send('Pong')
 
     @commands.command()
-    async def say(arg1, arg2):
+    async def say(self, ctx, arg1, arg2):
         await ctx.send(f"arg1 : {arg1}\narg2 : {arg2}")
 
 def setup(bot):

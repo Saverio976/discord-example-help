@@ -9,7 +9,7 @@ class Other(commands.Cog):
         self.bot = bot
 
     @commands.command()
-    async def test():
+    async def test(self, ctx):
         await ctx.send("test")
 
 def setup(bot):
