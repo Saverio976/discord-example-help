@@ -6,7 +6,7 @@ this repository is not to replace the right documentation [discord.py doc here](
 
 ## Topic
 
-1. [object](https://github.com/Saverio976/discord-example-help/tree/master/topic/onject)
+1. [object](https://github.com/Saverio976/discord-example-help/tree/master/topic/object)
     1. [message](https://github.com/Saverio976/discord-example-help/tree/master/topic/object/message)
     1. [member](https://github.com/Saverio976/discord-example-help/tree/master/topic/object/member)
     1. [channel](https://github.com/Saverio976/discord-example-help/tree/master/topic/object/channel)
@@ -18,7 +18,7 @@ this repository is not to replace the right documentation [discord.py doc here](
     1. [some_info](https://github.com/Saverio976/discord-example-help/tree/master/topic/cogs/some_info)
 1. [tasks](https://github.com/Saverio976/discord-example-help/tree/master/topic/tasks)
     1. [tasks_basic](https://github.com/Saverio976/discord-example-help/tree/master/topic/tasks/tasks_basic)
-    1. [tasks_less_basic](https://github.com/Saverio976/discord-example-help/tree/master/topic/cogs/tasks_advanced)
+    1. [tasks_less_basic](https://github.com/Saverio976/discord-example-help/tree/master/topic/tasks/tasks_advanced)
 
 ## use doc
 
